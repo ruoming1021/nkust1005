@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\1012\opendata\opendatanew\opendatanew\bin\Debug\netcoreapp2.1\opendatanew.deps.json
+C:\Users\user\Desktop\1012\opendata\opendatanew\opendatanew\bin\Debug\netcoreapp2.1\opendatanew.runtimeconfig.json
+C:\Users\user\Desktop\1012\opendata\opendatanew\opendatanew\bin\Debug\netcoreapp2.1\opendatanew.runtimeconfig.dev.json
+C:\Users\user\Desktop\1012\opendata\opendatanew\opendatanew\bin\Debug\netcoreapp2.1\opendatanew.dll
+C:\Users\user\Desktop\1012\opendata\opendatanew\opendatanew\bin\Debug\netcoreapp2.1\opendatanew.pdb
+C:\Users\user\Desktop\1012\opendata\opendatanew\opendatanew\obj\Debug\netcoreapp2.1\opendatanew.csprojAssemblyReference.cache
+C:\Users\user\Desktop\1012\opendata\opendatanew\opendatanew\obj\Debug\netcoreapp2.1\opendatanew.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1012\opendata\opendatanew\opendatanew\obj\Debug\netcoreapp2.1\opendatanew.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\1012\opendata\opendatanew\opendatanew\obj\Debug\netcoreapp2.1\opendatanew.AssemblyInfo.cs
+C:\Users\user\Desktop\1012\opendata\opendatanew\opendatanew\obj\Debug\netcoreapp2.1\opendatanew.dll
+C:\Users\user\Desktop\1012\opendata\opendatanew\opendatanew\obj\Debug\netcoreapp2.1\opendatanew.pdb
